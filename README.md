@@ -12,3 +12,5 @@
 
 ### CSS shapes
 [Square with text](https://zion86.github.io/CSS-solutions/CSS-shapes/CSS-square-with-text/index.html)
+
+[CSS skew examples](https://zion86.github.io/CSS-solutions/CSS-shapes/CSS-skew/index.html)
