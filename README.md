@@ -18,3 +18,5 @@
 
 ### Responsive wed design
 [Responsive video from Youtube](https://zion86.github.io/CSS-solutions/Responsive-web-design/Responsive-video/index.html)
+
+[Simple respovsive flexbox image gallery](https://zion86.github.io/CSS-solutions/Responsive-web-design/Simple-responsive-flexbox-image-gallery/index.html)
