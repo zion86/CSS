@@ -6,6 +6,8 @@
 [Flexbox table layout with text overflow](https://zion86.github.io/CSS-solutions/Layout/Simple-flexbox-table-layout/index.html)
 
 ### CSS hover effects
+[Cool hover effect on image](https://zion86.github.io/CSS-solutions/CSS-hover-effects/Hover-effects-on-images/index.html)
+
 [Hover effect #1](https://zion86.github.io/CSS-solutions/CSS-hover-effects/Link-hover%20effect/index.html)
 
 [Flip-card hover effect](https://zion86.github.io/CSS-solutions/CSS-hover-effects/Flip-card-hover-effect/index.html)
