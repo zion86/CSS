@@ -19,8 +19,10 @@
 
 [CSS skew examples](https://zion86.github.io/CSS-solutions/CSS-shapes/CSS-skew/index.html)
 
-
 ### Responsive wed design
 [Responsive video from Youtube](https://zion86.github.io/CSS-solutions/Responsive-web-design/Responsive-video/index.html)
 
 [Simple respovsive flexbox image gallery](https://zion86.github.io/CSS-solutions/Responsive-web-design/Simple-responsive-flexbox-image-gallery/index.html)
+
+### CSS positioning
+[Positioning element in center](https://zion86.github.io/CSS-solutions/CSS-positioning/Positioning-element-in-center/index.html)
