@@ -14,6 +14,9 @@
 
 [Buton animation hover effect](https://zion86.github.io/CSS-solutions/CSS-hover-effects/Button-animation-hover-effect/index.html)
 
+### CSS menu
+[CSS menu icon with animation](https://zion86.github.io/CSS-solutions/CSS-menu/CSS-menu-icon/index.html)
+
 ### CSS animation
 [3D cube animation](https://zion86.github.io/CSS-solutions/CSS-animation/CSS-keyframe-animation/index.html)
 
