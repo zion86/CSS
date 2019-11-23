@@ -21,6 +21,8 @@
 
 [Simple nav menu](https://zion86.github.io/CSS-solutions/CSS-menu/Simple-nav-menu-with-animation/index.html)
 
+[Left side hidden menu](https://zion86.github.io/CSS-solutions/CSS-menu/Left-side-hidden-menu/index.html)
+
 ### CSS animation
 [3D cube animation](https://zion86.github.io/CSS-solutions/CSS-animation/CSS-keyframe-animation/index.html)
 
