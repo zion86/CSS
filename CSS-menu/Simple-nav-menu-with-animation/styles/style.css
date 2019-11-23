@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.menu {
+  display: flex;
+  background-color: green;
+}
+
+.menu__list {
+  flex: 1;
+  margin: 5px;
+  padding: 5px;
+  display: flex;
+  position: relative;
+  background-color: dodgerblue;
+}
+
+.menu__list::after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 3px;
+  left: auto;
+  bottom: 0;
+  right: 0;
+  background-color: white;
+  transition: 0.3s;
+}
+
+.menu__list:hover::after {
+  width: 100%;
+  left: 0;
+}
+
+.menu__link {
+  flex: 1; 
+  color: white;
+  text-decoration: none;
+  text-align: center;
+}
