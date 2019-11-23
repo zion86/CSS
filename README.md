@@ -12,7 +12,7 @@
 
 [Flip-card hover effect](https://zion86.github.io/CSS-solutions/CSS-hover-effects/Flip-card-hover-effect/index.html)
 
-[Buton animation hover effect](https://zion86.github.io/CSS-solutions/CSS-hover-effects/Button-animation-hover-effect/index.html)
+[Button animation hover effect](https://zion86.github.io/CSS-solutions/CSS-hover-effects/Button-animation-hover-effect/index.html)
 
 ### CSS menu
 [Hidden menu on pure CSS with animation](https://zion86.github.io/CSS-solutions/CSS-menu/Hidden-menu-on-pure-CSS/index.html)
