@@ -16,6 +16,7 @@
 
 ### CSS menu
 [Hidden menu on pure CSS with animation](https://zion86.github.io/CSS-solutions/CSS-menu/Hidden-menu-on-pure-CSS/index.html)
+
 [CSS menu icon with animation](https://zion86.github.io/CSS-solutions/CSS-menu/CSS-menu-icon/index.html)
 
 ### CSS animation
