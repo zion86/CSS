@@ -1,15 +1,15 @@
 * {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 .container {
-	display: flex;
-	position: absolute;
-	left: 50%;
-	top: 50%;
-	transform: translate(-50%, -50%);
+  display: flex;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .btn:nth-child(1),
@@ -17,101 +17,101 @@
 .btn:nth-child(3),
 .btn:nth-child(4),
 .btn:nth-child(5) {
-	width: 100px;
-	height: 40px;
-	margin: 5px;
-	padding: 20px;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	position: relative;
-	font-family: sans-serif;
-	color: white;
-	border-radius: 8px;
-	background-color: tomato;
+  width: 100px;
+  height: 40px;
+  margin: 5px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  font-family: sans-serif;
+  color: white;
+  border-radius: 8px;
+  background-color: tomato;
 }
 
 /* Animation from LEFT to RIGHT */
 .btn:nth-child(1)::before {
-	content: "";
-	position: absolute;
-	left: 0;
-	top: 0;
-	width: 0;
-	height: 100%;
-	background: rgba(255,255,255,0.5);
-	transition: 0.3s;
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 0;
+  height: 100%;
+  background: rgba(255,255,255,0.5);
+  transition: 0.3s;
 }
 
 .btn:nth-child(1):hover::before {
-	width: 100%;
+  width: 100%;
 }
 
 /* Animation from CENTER to ... */
 .btn:nth-child(2)::before {
-	content: "";
-	position: absolute;
-	left: 50%;
-	top: 50%;
-	width: 0;
-	height: 0;
-	background: rgba(255,255,255,0.5);
-	transition: 0.3s;
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 0;
+  height: 0;
+  background: rgba(255,255,255,0.5);
+  transition: 0.3s;
 }
 
 .btn:nth-child(2):hover::before {
-	left: 0;
-	top: 0;
-	width: 100%;
-	height: 100%;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
 }
 
 /* Animation from CENTER to LEFT and RIGHT */
 .btn:nth-child(3)::before {
-	content: "";
-	position: absolute;
-	left: 50%;
-	width: 0;
-	top: 0;
-	height: 100%;
-	background: rgba(255,255,255,0.5);
-	transition: 0.3s;
+  content: "";
+  position: absolute;
+  left: 50%;
+  width: 0;
+  top: 0;
+  height: 100%;
+  background: rgba(255,255,255,0.5);
+  transition: 0.3s;
 }
 
 .btn:nth-child(3):hover::before {
-	left: 0;
-	width: 100%;
+  left: 0;
+  width: 100%;
 }
 
 /* Animation from TOP to BOTTOM */
 .btn:nth-child(4)::before {
-	content: "";
-	position: absolute;
-	left: 0;
-	top: 0;
-	width: 100%;
-	height: 0;
-	background: rgba(255,255,255,0.5);
-	transition: 0.3s;
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 0;
+  background: rgba(255,255,255,0.5);
+  transition: 0.3s;
 }
 
 .btn:nth-child(4):hover::before {
-	height: 100%;
+  height: 100%;
 }
 
 /* Animation from TOP LEFT to RIGHT BOTTOM */
 .btn:nth-child(5)::before {
-	content: "";
-	position: absolute;
-	left: 0;
-	top: 0;
-	width: 0;
-	height: 0;
-	background: rgba(255,255,255,0.5);
-	transition: 0.3s;
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 0;
+  height: 0;
+  background: rgba(255,255,255,0.5);
+  transition: 0.3s;
 }
 
 .btn:nth-child(5):hover::before {
-	width: 100%;
-	height: 100%;
+  width: 100%;
+  height: 100%;
 }

@@ -1,44 +1,44 @@
 * {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 .container {
-	max-width: 960px;
-	width: 100%;
-	margin-left: auto;
-	margin-right: auto;
-	display: flex;
-	flex-flow: row wrap;
+  max-width: 960px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-flow: row wrap;
 }
 
 .pic {
-	flex: 1 1 300px;
-	height: 250px;
-	margin: 5px;
-	position: relative;
-	overflow: hidden;
+  flex: 1 1 300px;
+  height: 250px;
+  margin: 5px;
+  position: relative;
+  overflow: hidden;
 }
 
 .pic__img {
-	position: absolute;
-	width: 100%;
-	height: 100%;
-	object-fit: cover;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .pic__title {
-	position: absolute;
-	width: 100%;
-	bottom: -100%;
-	color: white;
-	font: 26px / 1.9 sans-serif;
-	text-align: center;
-	background-color: rgba(0, 0, 0, 0.5);
-	transition: 0.3s;
+  position: absolute;
+  width: 100%;
+  bottom: -100%;
+  color: white;
+  font: 26px / 1.9 sans-serif;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  transition: 0.3s;
 }
 
 .pic:hover .pic__title {
-	bottom: 0;
+  bottom: 0;
 }
