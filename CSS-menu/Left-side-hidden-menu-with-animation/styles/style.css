@@ -70,8 +70,8 @@ img {
   padding: 10px;
   flex: 1 1 280px;
   height: 300px;
-  overflow: hidden;
   background-color: mediumslateblue;
+  overflow: hidden;
 }
 
 /* MENU ICON */
@@ -88,6 +88,7 @@ img {
   justify-content: space-between;
   background-color: grey;
   border-radius: 10px;
+  cursor: pointer;
   transition: 0.5s;
 }
 
