@@ -15,6 +15,7 @@
 [Button animation hover effect](https://zion86.github.io/CSS-solutions/CSS-hover-effects/Button-animation-hover-effect/index.html)
 
 ### CSS menu
+[left side hidden menu with animation](https://zion86.github.io/CSS-solutions/CSS-menu/Left-side-hidden-menu-with-animation/)
 [Hidden menu on pure CSS with animation](https://zion86.github.io/CSS-solutions/CSS-menu/Hidden-menu-on-pure-CSS/index.html)
 
 [CSS menu icon with animation](https://zion86.github.io/CSS-solutions/CSS-menu/CSS-menu-icon/index.html)
