@@ -1,0 +1,30 @@
+.checkbox {
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  position: relative;
+  border: 3px solid limegreen;
+  border-radius: 5px;
+}
+
+.checkbox__control {
+  opacity: 0;
+}
+
+.checkbox__icon::after {
+  content: "";
+  transition: 0.3s;
+}
+
+.checkbox__control:checked + .checkbox__icon::after {
+  content: "";
+  display: block;
+  position: absolute;
+  left: 20%;
+  top: 18%;
+  width: 15px;
+  height: 10px;
+  border-left: 3px solid limegreen;
+  border-bottom: 3px solid limegreen;
+  transform: rotate(-45deg);
+}
