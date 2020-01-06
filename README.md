@@ -35,3 +35,6 @@
 
 ### CSS positioning
 [Positioning element in center](https://zion86.github.io/CSS-solutions/CSS-positioning/Positioning-element-in-center/index.html)
+
+### CSS simple custom checkbox
+[Custom checkbox](https://zion86.github.io/CSS-solutions/CSS-custom-checkbox/)
