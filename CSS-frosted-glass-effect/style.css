@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+}
+body{
+  height: 100%;
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+.img {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url(1.jpg) 50% 0 / cover no-repeat fixed;
+  overflow: hidden;
+}
+
+.img__glass {
+  position: relative;
+  width: 70%;
+  height: 60%;
+  background: inherit;
+}
+
+.img__glass::before {
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: inherit;
+  filter: blur(5px);
+}
+
+.img__title {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+  color: white;
+  text-align: center;
+  mix-blend-mode: overlay;
+}
+
+.text {
+  margin: 0 auto;
+  padding: 10px;
+  max-width: 960px;
+}
