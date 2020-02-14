@@ -1,5 +1,8 @@
 # CSS examples and solutions
 
+### CSS frosted glass effect
+[frosted glass effect](https://zion86.github.io/CSS-solutions/CSS-frosted-glass-effect/index.html)
+
 ### CSS hover effects
 [Cool hover effect on image](https://zion86.github.io/CSS-solutions/CSS-hover-effects/Hover-effects-on-images/index.html)
 
