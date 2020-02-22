@@ -3,6 +3,9 @@
 ### CSS frosted glass effect
 [frosted glass effect](https://zion86.github.io/CSS-solutions/CSS-frosted-glass-effect/index.html)
 
+### Parallax CSS pure effect
+[Parallax Effect puse CSS](https://zion86.github.io/CSS-solutions/Parallax-effect-pure-css/index.html)
+
 ### CSS hover effects
 [Cool hover effect on image](https://zion86.github.io/CSS-solutions/CSS-hover-effects/Hover-effects-on-images/index.html)
 
