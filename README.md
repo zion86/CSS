@@ -36,3 +36,4 @@
 ### CSS custom html elements
 - [Custom checkbox](https://zion86.github.io/CSS-solutions/CSS-custom-checkbox/)
 - [Custom select](https://www.w3.org/TR/wai-aria-practices/examples/listbox/listbox-collapsible.html)
+- [Striking a Balance Between Native and Custom Select Elements](https://css-tricks.com/striking-a-balance-between-native-and-custom-select-elements/)
